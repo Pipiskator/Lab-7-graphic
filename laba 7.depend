@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1715950961 source:d:\Раб стол\moi laba\laba 5\main.c
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+
+1715951066 d:\Раб стол\moi laba\laba 5\camera.h
+
+1715954882 source:d:\Раб стол\moi laba\laba 5\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+
+1715951066 source:d:\Раб стол\moi laba\laba 5\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1715951066 d:\Раб стол\moi laba\laba 5\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1716713859 source:d:\Раб стол\lab-5-graphic-main\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1716031475 d:\Раб стол\lab-5-graphic-main\camera.h
+
+1716721222 source:d:\Раб стол\lab-5-graphic-main\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<cmath>
+
+1716713859 source:d:\Раб стол\lab-6-graphic-main\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1716031475 d:\Раб стол\lab-6-graphic-main\camera.h
+
+1716721222 source:d:\Раб стол\lab-6-graphic-main\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<cmath>
+
+1716713859 source:d:\Раб стол\lab-6-graphic\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1716031475 d:\Раб стол\lab-6-graphic\camera.h
+
+1716721222 source:d:\Раб стол\lab-6-graphic\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<cmath>
+
+1716713859 source:d:\Раб стол\lab-7-graphic\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1716031475 d:\Раб стол\lab-7-graphic\camera.h
+
+1716723261 source:d:\Раб стол\lab-7-graphic\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<cmath>
+
